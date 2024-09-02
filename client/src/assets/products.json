@@ -1,0 +1,136 @@
+[
+    {
+        "id": 1,
+        "name": "Elegant Red Dress",
+        "category": "Dresses",
+        "price": 49.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": "Red",
+        "description": "A stunning red dress perfect for evening events and parties.",
+        "imageUrl": "https://i.pinimg.com/736x/28/dd/1b/28dd1b25a0cc1997798612ed0327eda8.jpg",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "name": "Casual Denim Jacket",
+        "category": "Jackets",
+        "price": 59.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": "Blue",
+        "description": "A comfortable denim jacket that pairs well with any casual outfit.",
+        "imageUrl": "https://i.pinimg.com/564x/71/a5/cc/71a5cc69d15dba43aea4b3b7a0772799.jpg",
+        "stock": 30
+    },
+    {
+        "id": 3,
+        "name": "Black Skinny Jeans",
+        "category": "Jeans",
+        "price": 39.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": "Black",
+        "description": "Classic black skinny jeans with a perfect fit for a sleek look.",
+        "imageUrl": "https://i.pinimg.com/564x/ef/d8/41/efd841a2d30f2e95e103fd9255e3a0ae.jpg",
+        "stock": 0
+    },
+    {
+        "id": 4,
+        "name": "White Cotton T-Shirt",
+        "category": "T-Shirts",
+        "price": 19.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": "White",
+        "description": "A soft and breathable white cotton t-shirt for everyday wear.",
+        "imageUrl": "https://i.pinimg.com/564x/24/b6/69/24b66972cb14a82e299a81d6fd66f32d.jpg",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "name": "Floral Print Skirt",
+        "category": "Skirts",
+        "price": 29.99,
+        "size": [
+            "S",
+            "M",
+            "L"
+        ],
+        "color": "Multicolor",
+        "description": "A vibrant floral print skirt that adds a pop of color to your wardrobe.",
+        "imageUrl": "https://i.pinimg.com/564x/27/c8/19/27c8197e847c192c10fda17097968ebc.jpg",
+        "stock": 20
+    },
+    {
+        "id": 6,
+        "name": "Leather Ankle Boots",
+        "category": "Footwear",
+        "price": 79.99,
+        "size": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "color": "Brown",
+        "description": "Stylish leather ankle boots that are perfect for any season.",
+        "imageUrl": "https://i.pinimg.com/564x/30/d7/1f/30d71f58f01a3f02908312947fce8d9a.jpg",
+        "stock": 15
+    },
+    {
+        "id": 7,
+        "name": "Silk Scarf",
+        "category": "Accessories",
+        "price": 24.99,
+        "color": "Pink",
+        "description": "A luxurious silk scarf that adds elegance to any outfit.",
+        "imageUrl": "https://i.pinimg.com/564x/e1/9b/06/e19b064cf8542a9c76c742cf24593ec5.jpg",
+        "stock": 35
+    },
+    {
+        "id": 8,
+        "name": "Plaid Wool Coat",
+        "category": "Coats",
+        "price": 99.99,
+        "size": [
+            "S",
+            "M",
+            "L",
+            "XL"
+        ],
+        "color": "Gray",
+        "description": "A warm plaid wool coat that's perfect for chilly weather.",
+        "imageUrl": "https://i.pinimg.com/564x/80/12/0a/80120ac12adc19f45b2af481899e1761.jpg",
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "name": "Figaro Link Silver Necklace",
+        "category": "Accessories",
+        "price": 1099.99,
+        "size": [
+            "18"
+        ],
+        "color": "Silver",
+        "description": "Chain necklace designed in sterling silver.",
+        "imageUrl": "https://i.pinimg.com/564x/b4/d2/90/b4d2901573c703b5d3e18ead75769e6b.jpg",
+        "stock": 5
+    }
+]

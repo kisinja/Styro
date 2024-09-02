@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Sneakers",
+        "img": "https://i.pinimg.com/736x/f3/fe/12/f3fe125d5068f31bf9d5a6d57aaef5fb.jpg",
+        "description": "A pair of comfortable sneakers for everyday wear.",
+        "alignment": "right"
+    },
+    {
+        "id": 2,
+        "name": "Jackets",
+        "img": "https://i.pinimg.com/736x/f0/b2/12/f0b212a5bea2d6754dc7be030adf5c47.jpg",
+        "description": "A stylish jacket to keep you warm and cozy.",
+        "alignment": "top"
+    },
+    {
+        "id": 3,
+        "name": "Jeans",
+        "img": "https://i.pinimg.com/736x/f7/f6/b9/f7f6b9986bfc0e6067bee25634001c3a.jpg",
+        "description": "A pair of classic jeans for a casual look.",
+        "alignment": "bottom"
+    },
+    {
+        "id": 4,
+        "name": "Accessories",
+        "img": "https://i.pinimg.com/564x/8c/26/79/8c26795786135a1e1e3285920fdba001.jpg",
+        "description": "A pair of classic jeans for a casual look.",
+        "alignment": "left"
+    }
+]

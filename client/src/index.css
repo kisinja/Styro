@@ -1,0 +1,24 @@
+/* Roboto font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Oswald font */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+    /* font-family: 'Roboto', sans-serif; */
+    font-family: 'Oswald', sans-serif;
+}
+
+.active {
+    color: #668fbd;
+    font-weight: 500;
+}
+
+.pages {
+    padding: 0 3%;
+}
