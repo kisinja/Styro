@@ -34,7 +34,7 @@ const Navbar = () => {
     ];
 
     return (
-        <header className='max-w-screen-2xl container mx-auto xl:px-24 px-[3%] shadow-sm bg-black sticky top-0 w-full z-50'>
+        <header className='max-w-screen-2xl container mx-auto xl:px-24 px-[3%] shadow-sm bg-black sticky top-0 w-full z-50 overflow-y-hidden'>
             <nav className='flex justify-between items-center py-6 bg-black/70 px-2'>
 
                 {/* Nav items for large devices */}
